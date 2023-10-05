@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "109382457067",
+    "project_id": "rento-listings",
+    "storage_bucket": "rento-listings.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109382457067:android:b15894cee7e4efc2c250ae",
+        "android_client_info": {
+          "package_name": "com.jkaranja.rentoz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109382457067-b4bvkrjdndvqfhltfsahfpi4qh74bdne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpNMpb1ZgDcecLRWfdTwcSZDa_86ufVRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109382457067-b4bvkrjdndvqfhltfsahfpi4qh74bdne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
