@@ -19,7 +19,7 @@
     "android": {
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyD9kHILfFLaKa41oRwoqQnsiJnQp0oFj8g"
+          "apiKey": ""
         }
       },
       "adaptiveIcon": {
@@ -59,7 +59,7 @@
         "origin": false
       },
       "eas": {
-        "projectId": "fb89d16f-cdfd-4607-887d-e3c27a6aa9ab"
+        "projectId": "fb89d16f-7d-e3c27a6aa9ab"
       }
     }
   }
